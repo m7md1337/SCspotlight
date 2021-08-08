@@ -41,6 +41,7 @@ N.token;
 
 
 * ### after use option 2 OR 1
+* * now the token will save in file called .envspot so when use script again no need to enter th token or login untill the token expires 
 * * but all your videos in dir vids 
 * * now the script will ask u how many times upload the videos in direction vids
 
