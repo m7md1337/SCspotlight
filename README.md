@@ -58,6 +58,7 @@ N.token;
 
 
 ## something u should know 
+* more than 200 lines i wrote it from my iphone 7
 * I tried to setup sms login but I don't think its work
 * its work with me maybe won't work with you 
 * maybe in the future will be more update maybe
