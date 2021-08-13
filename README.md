@@ -1,6 +1,15 @@
 # SCspotlight
 * A script python to let you upload on spotlight 
+## install &  requirements 
+* install the requirements.txt 
+* `pip3 install requirements.txt` 
+* install ffmpeg tool that's get info of video 
+* for ubuntu&debian
+* `sudo apt update`
+* `sudo apt install ffmpeg`
 ## how to use 
+* run it by python3 
+* `python3 SCspotLight.py`
 * ### there's two options 1 ,2
 1. - by login 
 2. - by enter the token  
