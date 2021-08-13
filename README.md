@@ -2,7 +2,7 @@
 * A script python to let you upload on spotlight 
 ## install &  requirements 
 * install the requirements.txt 
-* `pip3 install requirements.txt` 
+* `pip3 install -r requirements.txt` 
 * install ffmpeg tool that's get info of video 
 * for ubuntu&debian
 * `sudo apt update`
