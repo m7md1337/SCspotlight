@@ -269,8 +269,8 @@ def uploadVideo(token, file):
     width, highe, timems = get_length(file)
     fileread = open(file, "rb")  # actually isn't a file its a video
     enc = encrypt(fileread.read())
-    iv = enc["iv"]
-    key = enc["key"]
+    iv = enc["iv"].decode("utf8")
+    key = enc["key"].decode("utf8")
     hh  = {'Connection': 'keep-alive',
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Mobile/15E148 Safari/604.1",
                     "Content-Type": "application/octet-stream"}
