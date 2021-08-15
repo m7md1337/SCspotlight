@@ -1,6 +1,8 @@
 # SCspotlight
 * A script python to let you upload on spotlight 
 ## install &  requirements 
+* `git clone https://github.com/m7md1337/SCspotlight.git `
+* `cd SCspotlight`
 * install the requirements.txt 
 * `pip3 install -r requirements.txt` 
 * install ffmpeg tool that's get info of video 
